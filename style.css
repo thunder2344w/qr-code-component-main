@@ -14,7 +14,6 @@ body{
     padding: 12px;
     width: 342px;
     border-radius: 10px;
-    margin: auto;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -23,7 +22,6 @@ body{
 img{
     width: 342px;
     align-items: center;
-    margin: auto;
     border-radius: 10px;
 }
 .test{
