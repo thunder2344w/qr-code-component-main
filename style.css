@@ -1,5 +1,8 @@
 body{
     background-color: #d6e1f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 *{
   font-family: "Outfit", sans-serif;
@@ -11,16 +14,16 @@ body{
     padding: 12px;
     width: 342px;
     border-radius: 10px;
-    align-items: center;
-    margin: 0 auto;
+    margin: auto;
     display: flex;
+    align-items: center;
     flex-wrap: wrap;
     background-color: white;
 }
 img{
     width: 342px;
     align-items: center;
-    margin: 0 auto;
+    margin: auto;
     border-radius: 10px;
 }
 .test{
